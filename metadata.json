@@ -1,0 +1,6 @@
+{
+  "name": "CampusSwap",
+  "description": "Campus-based student resource sharing marketplace to buy, sell, borrow, exchange, and donate textbooks, calculators, lab gear, and academic materials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
